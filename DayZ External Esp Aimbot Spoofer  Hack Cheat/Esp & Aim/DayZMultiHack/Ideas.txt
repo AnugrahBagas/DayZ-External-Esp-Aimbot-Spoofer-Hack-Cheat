@@ -1,0 +1,9 @@
+﻿- Clickable menu!!!
+
+- Iterate over hole inventory and drop ammo
+
+
+- Use nearest to crosshair
+	- Waypoints
+	- Murder mode target
+	- Values
